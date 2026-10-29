@@ -1,5 +1,8 @@
 # 🛍️ ShopAnalytics
 ## Online Shopping Transaction Analysis System
+### 🌐 Live Website
+[Click Here to Open ShopAnalytics](https://online-shopping-transaction-analysis-system-tvq8ojnp8nukec6k5l.streamlit.app/)
+
 
 ### 📌 Project Overview
 ShopAnalytics is a web-based application developed using Python and Streamlit. It helps analyze online shopping transactions, track orders, monitor revenue, and visualize sales performance through interactive dashboards.
